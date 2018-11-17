@@ -6,6 +6,11 @@
     "test": "jest",
     "prepublish": "yarn test"
   },
+  "files": [
+    "package.json",
+    "README.md",
+    "src/"
+  ],
   "license": "MIT",
   "devDependencies": {
     "babel-plugin-macros": "^2.4.2",
